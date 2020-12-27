@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://kkbox-red-envelope.github.io" resolutions="1x,2x" timestamp="1609078847377">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://kkbox-red-envelope.github.io" resolutions="1x,2x" timestamp="1609079163564">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4148861268" ref="index"/>
+    <file name="index.css" crc="4096635404" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -12,12 +12,9 @@
     <file name="require.js" crc="4177726516" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="not-yet.png" crc="4083691068" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="not-yet_2x.png" crc="4083691068" seo="true" ref="index">
+    <file name="not-yet.png" crc="4008179473" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="44438090" seo="true" mt="1609078651588" redirect="true"/>
+  <file name="index.html" crc="258497698" seo="true" mt="1609079152662" redirect="true"/>
 </manifest>
