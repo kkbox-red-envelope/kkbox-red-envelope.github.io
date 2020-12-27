@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://kkbox-red-envelope.github.io" resolutions="1x,2x" timestamp="1609079469192">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://kkbox-red-envelope.github.io" resolutions="1x,2x" timestamp="1609079583930">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="4096635404" ref="index"/>
@@ -17,5 +17,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="384444825" seo="true" mt="1609079463305" redirect="true"/>
+  <file name="index.html" crc="3987518015" seo="true" mt="1609079568792" redirect="true"/>
 </manifest>
